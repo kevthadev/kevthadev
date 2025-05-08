@@ -16,6 +16,10 @@ If there are m ways to perform action 1 and n ways to perform action 2 then ther
 ```math
 _{n}P_{k}=\frac{n!}{(n-k)!}
 ```
+permutations of a multiset:
+```math
+\frac{n!}{n_1!n_2!...}
+```
 ### Combinations:
 Ordering does not matter. It is a subset of $k$ distinct elements from a set of size $n$.
 ```math
